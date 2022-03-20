@@ -15,11 +15,7 @@ However, true learning doesn't take place until students practice what they've b
 
 To provide practice in class, many lessons are followed with post-lesson labs. And of course, there's project week, where students often feel they learn the most.
 
-To provide additional practice writing JavaScript functions to solve a specific task, you will be required to complete one code challenge per day during weeks: 1, 2, 4, 5, 7 & 8. Totaling 30 challenges.
-
-These code challenges are considered deliverables, and thus 80% of them must be completed in combination with other deliverable homework/assignments in order to receive a Certificate of Completion.
-
-You may choose to do more than one per day, or none at all - just don't fall too far behind!
+To provide additional practice writing JavaScript functions to solve a specific task, you will be encouraged to work on these challenges over time.
 
 ## Set Up
 
@@ -28,8 +24,6 @@ You may choose to do more than one per day, or none at all - just don't fall too
 2. Since you cannot have nested repos, be sure to move outside of the class, or any other repo before the next step.
 
 3. To bring the materials in the repo into your computer, clone *your fork* of the repo by copying the URL shown when you click the **[Clone or download]**: `$ git clone <the copied URL>`
-
-4. Slack your instructors the link to your fork so that they can monitor your progress.
 
 ## Instructions
 
